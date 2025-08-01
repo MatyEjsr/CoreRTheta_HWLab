@@ -2,14 +2,18 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Core R-Theta Printer
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+title: CoreRTheta_HWLab
+message: Remix of a 4-axis 3D Printer by Joshua Bird
 type: software
 authors:
-  - given-names: Joshua
-    family-names: Bird
-    email: jyjb2@cantab.ac.uk
-repository-code: 'https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer'
-license: View repository for custom license.
+  - given-names: Matěj
+    family-names: Duchaj
+    email: matyduchaj@gmail.com
+    affiliation: HWLab
+    orcid: 'https://orcid.org/0000-0002-9523-3899'
+identifiers:
+  - type: url
+    value: 'https://ejsrejsr.framer.website/'
+    description: Personal webiste
+repository-code: 'https://github.com/MatyEjsr/CoreRTheta_HWLab/tree/main'
+repository-artifact: 'https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer'
