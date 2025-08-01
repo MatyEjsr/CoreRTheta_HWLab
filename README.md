@@ -1,3 +1,6 @@
+# What the Fork?
+This fork was created to make the brilliant R-Theta motion concept more accessible and usable for the broader 3D printing community. While the original design is innovative, it lacks some of the features, documentation, and usability needed for practical non-planar printing. Together with a few collaborators, I decided to improve and expand the project—refining the mechanical design, clarifying the setup, and integrating proven ideas from other open-source printers like Voron and Printers for Ants. The goal is to evolve this great concept into a more robust, user-friendly multi-axis printer and help bring this technology to a wider audience.
+
 # The Core R-Theta Printer
 
 This is my 4 axis, polar, "core-RΘ" 3D printer – an entirely new type of multi axis 3D printer designed from the ground up. 
@@ -14,7 +17,6 @@ A multi axis printer is pretty hopeless without a non-planar slicer, which is wh
 ### Assembly
 There is a wealth of knowledge in the Discussions, Pull Requests and Issues tabs of this repo. The printer is by no means "plug and play", and there are no instructions as of yet, but the information in the discussions should help you get started. Feel free to post questions on the discussions tab.
 
-You can view the [3d model online](https://a360.co/3VdXkRY) to see how to assemble the printer. Everything is 3D printable, however I got the extruder mount made out of metal by JLCPCB as there is quite a bit of torque on that part. I've also included the gerber files to make your own PCB buildplate, but a sheet of MDF wood would also work.
 
 
 ### BOM
@@ -56,11 +58,9 @@ Some links are included so you know what to get, but they are by no means the be
 |                          |     |                                                                                                                                                                                                                                                                                                                                                                                                                                |                 |
 | Electronics              |     |                                                                                                                                                                                                                                                                                                                                                                                                                                |                 |
 | Control Board            | 1   | [Aliexpress](https://www.aliexpress.us/item/1005002372751834.html?spm=a2g0o.cart.0.0.189e38daDy9bLj&mp=1&gatewayAdapt=glo2usa)                                                                                                                                                                                                                                                                                                       |                 |
-| 24V 10A Power Brick      | 1   | [Aliexpress](https://www.aliexpress.us/item/1005003088055215.html?spm=a2g0o.productlist.main.1.274c1017SLo2cI&algo_pvid=fc15f3c2-4225-43e2-b9f1-1ec7c4a5bb77&algo_exp_id=fc15f3c2-4225-43e2-b9f1-1ec7c4a5bb77-0&pdp_npi=4%40dis%21USD%217.80%214.68%21%21%217.80%214.68%21%402102f64217218109525782817ef4f1%2112000024005691633%21sea%21HK%213408833611%21X&curPageLogUid=nAQanWwxCNH1&utparam-url=scene%3Asearch%7Cquery_from%3A)   |                 |
-| 5.5x2.5 plug             | 1   | [Aliexpress](https://www.aliexpress.us/item/33034810979.html?spm=a2g0o.productlist.main.15.74b863c0UZ5tpX&algo_pvid=a17ee02e-b212-4259-a89a-ef6d215554bc&algo_exp_id=a17ee02e-b212-4259-a89a-ef6d215554bc-7&pdp_npi=4%40dis%21USD%212.00%211.76%21%21%212.00%211.76%21%402101584517218110655627764e3a68%2112000037068940694%21sea%21HK%213408833611%21&curPageLogUid=KXHREOg0VjR1&utparam-url=scene%3Asearch%7Cquery_from%3A)        |                 |
+
 | long nozzle              | 1   | [Aliexpress](https://www.aliexpress.com/item/1005007437644929.html?spm=a2g0o.order_list.order_list_main.39.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                           |                 |
-| aquarium pump            | 1   | [Aliexpress](https://aliexpress.com/item/1005005987431203.html?spm=a2g0o.order_list.order_list_main.219.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                              |                 |
-| BIQU H2 V2S extruder     | 1   | [Aliexpress](https://www.aliexpress.com/item/1005002027842161.html?spm=a2g0o.order_list.order_list_main.274.6df81802pwJpHi)                                                                                                                                                                                                                                                                                                          |
+
 
 
 
